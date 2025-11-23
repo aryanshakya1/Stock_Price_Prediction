@@ -74,5 +74,4 @@ fig.update_layout(
     template="plotly_white"
 )
 
-# Show plot
 st.plotly_chart(fig, use_container_width=True)
